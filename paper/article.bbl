@@ -1,0 +1,96 @@
+\begin{thebibliography}{31}
+
+\bibitem{1}
+LaValle, S.M.: Planning algorithms: Cambridge university press, 2006 (2006)
+
+\bibitem{2}
+Janson, L., Hu, T., Pavone, M.: Safe motion planning in unknown environments: Optimality benchmarks and tractable policies. arXiv preprint arXiv:1804.05804 (2018)
+
+\bibitem{3}
+Choset, H., Lynch, K.M., Hutchinson, S., Kantor, G.A., Burgard, W.: Principles of Robot Motion: Theory, Algorithms, and Implementations. MIT Press, Cambridge, MA (2005)
+
+\bibitem{4}
+Latombe, J.-C.: Robot Motion Planning. The Springer International Series in Engineering and Computer Science, vol. 124. Springer, Boston, MA (2012)
+
+\bibitem{5}
+Orthey, A., Chamzas, C., Kavraki, L.E.: Sampling-based motion planning: A comparative. arXiv preprint arXiv:2309.13119 (2023)
+
+\bibitem{6}
+Zhang, L., Cai, K., Sun, Z., Bing, Z., Wang, C., Figueredo, L., Haddadin, S., Knoll, A.: Motion planning for robotics: A review for sampling-based planners. Biomimetic Intelligence and Robotics, 100207 (2025)
+
+\bibitem{7}
+LaValle, S.: Rapidly-exploring random trees: A new tool for path planning. Research Report 9811 (1998)
+
+\bibitem{8}
+Karaman, S., Frazzoli, E.: Sampling-based algorithms for optimal motion planning. The international journal of robotics research 30(7), 846--894 (2011)
+
+\bibitem{9}
+Wilson, J.P., Shen, Z., Gupta, S.: A non-uniform sampling approach for fast and efficient path planning. In: Oceans 2021: San Diego--porto, pp. 1--5 (2021). IEEE
+
+\bibitem{10}
+Zhao, S., Han, P., Diao, Z., He, Z., Li, X., Lou, T., Jiang, L.: Improved informed rrt*: Based on dynamic shrinkage threshold node selection mechanism and adaptive goal-biased strategy. Electronics 14(4), 648 (2025)
+
+\bibitem{11}
+Wang, J., Xiong, G., Dang, B., Chen, J., Zhang, J., Xie, H.: Improved rrt-based obstacle-avoidance path planning for dual-arm robots in complex environments. Machines 13(7), 621 (2025)
+
+\bibitem{12}
+Zhou, Y., Yan, L., Han, Y., Xie, H., Zhao, Y.: A survey on the key technologies of uav motion planning. Drones 9(3), 194 (2025)
+
+\bibitem{13}
+Ye, J., Papaioannou, S., Kolios, P.: Vlm-rrt: Vision language model guided rrt search for autonomous uav navigation. In: 2025 International Conference on Unmanned Aircraft Systems (ICUAS), pp. 633--640 (2025). IEEE
+
+\bibitem{14}
+Gammell, J.D., Srinivasa, S.S., Barfoot, T.D.: Informed rrt*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic. In: 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 2997--3004 (2014). IEEE
+
+\bibitem{15}
+Gammell, J.D., Srinivasa, S.S., Barfoot, T.D.: Batch informed trees (bit*): Sampling-based optimal planning via the heuristically guided search of implicit random geometric graphs. In: 2015 IEEE International Conference on Robotics and Automation (ICRA), pp. 3067--3074 (2015). IEEE
+
+\bibitem{16}
+Nasir, J., Islam, F., Malik, U., Ayaz, Y., Hasan, O., Khan, M., Muhammad, M.S.: Rrt*-smart: A rapid convergence implementation of rrt. International Journal of Advanced Robotic Systems 10(7), 299 (2013)
+
+\bibitem{17}
+Gammell, J.D., Strub, M.P.: Asymptotically optimal sampling-based motion planning methods. Annual Review of Control, Robotics, and Autonomous Systems 4(1), 295--318 (2021)
+
+\bibitem{18}
+Otte, M., Frazzoli, E.: Rrtx: Asymptotically optimal single-query sampling-based motion planning with quick replanning. The International Journal of Robotics Research 35(7), 797--822 (2016)
+
+\bibitem{19}
+Kuffner, J.J., LaValle, S.M.: Rrt-connect: An efficient approach to single-query path planning. In: Proceedings 2000 ICRA. Millennium Conference. IEEE International Conference on Robotics and Automation. Symposia Proceedings (Cat. No. 00CH37065), vol. 2, pp. 995--1001 (2000). IEEE
+
+\bibitem{20}
+Verginis, C.K., Dimarogonas, D.V., Kavraki, L.E.: Sampling-based motion planning for uncertain high-dimensional systems via adaptive control. In: International Workshop on the Algorithmic Foundations of Robotics, pp. 159--175 (2020). Springer
+
+\bibitem{21}
+Hsu, D., Latombe, J.-C., Motwani, R.: Path planning in expansive configuration spaces. In: Proceedings of International Conference on Robotics and Automation, vol. 3, pp. 2719--2726 (1997). IEEE
+
+\bibitem{22}
+Li, Q., Wang, J., Li, H., Wang, B., Feng, C.: Fast-rrt*: an improved motion planner for mobile robot in two-dimensional space. IEEJ Transactions on Electrical and Electronic Engineering 17(2), 200--208 (2022)
+
+\bibitem{23}
+Klemm, S., Oberländer, J., Hermann, A., Roennau, A., Schamm, T., Zollner, J.M., Dillmann, R.: Rrt*-connect: Faster, asymptotically optimal motion planning. In: 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 1670--1677 (2015). IEEE
+
+\bibitem{24}
+Janson, L., Schmerling, E., Clark, A., Pavone, M.: Fast marching tree: A fast marching sampling-based method for optimal motion planning in many dimensions. The International journal of robotics research 34(7), 883--921 (2015)
+
+\bibitem{25}
+Ichter, B., Harrison, J., Pavone, M.: Learning sampling distributions for robot motion planning. In: 2018 IEEE International Conference on Robotics and Automation (ICRA), pp. 7087--7094 (2018). IEEE
+
+\bibitem{26}
+Wang, J., Chi, W., Li, C., Wang, C., Meng, M.Q.-H.: Neural rrt*: Learning-based optimal path planning. IEEE Transactions on Automation Science and Engineering 17(4), 1748--1758 (2020)
+
+\bibitem{27}
+Jonnarth, A., Zhao, J., Felsberg, M.: End-to-end reinforcement learning for online coverage path planning in unknown environments. arXiv preprint arXiv:2306.16978 (2023)
+
+\bibitem{28}
+Tan, C.S., Mohd-Mokhtar, R., Arshad, M.R.: A comprehensive review of coverage path planning in robotics using classical and heuristic algorithms. IEEE Access 9, 119310--119342 (2021)
+
+\bibitem{29}
+Ul Islam, N., Gul, K., Faizullah, F., Ullah, S.S., Syed, I.: Trajectory optimization and obstacle avoidance of autonomous robot using robust and efficient rapidly exploring random tree. PLoS ONE 19(10), 0311179 (2024)
+
+\bibitem{30}
+Ayalew, W., et al.: Optimal path planning using bidirectional rapidly-exploring random tree star-dynamic window approach (brrt*-dwa) with adaptive monte carlo localization (amcl) for mobile robot. Engineering Research Express 6(3), 035212 (2024)
+
+\bibitem{31}
+Flores-Aquino, G.O., Vasquez-Gomez, J.I., Gutierrez-Frias, O.: Custom distribution for sampling-based motion planning. Journal of the Brazilian Society of Mechanical Sciences and Engineering 44(3), 73 (2022)
+
+\end{thebibliography}
