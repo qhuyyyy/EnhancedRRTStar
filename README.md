@@ -29,24 +29,6 @@ RRT/
 └── README.md             # This file
 ```
 
-## Installation
-
-```bash
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Running Experiments
-
-```bash
-python run_experiments.py --trials 20 --iterations 5000
-```
-
 ### Performance Metrics
 
 The experiments measure the following metrics:
